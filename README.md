@@ -168,7 +168,7 @@
   - **A rigidly paced schedule that refers design improvements to the next product version**
   - **Less formality in reviews and other team communication**
 
-- ![sf8](sf8.png)
+- ![sf8](sf8.jpg)
 
 ### When to use RAD Model?
 - When the system should need to create the project that modularizes in a short span time (2-3 months)
