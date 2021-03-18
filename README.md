@@ -129,7 +129,7 @@
   - Linear-sequential life cycle model.
   - Very Simple to Understand and Use
   - In a waterfall model, each phase must be completed before the next phase can begin and there is no overlapping in the phases.
-  - ![sf7](sf7.jpeg)
+  - ![sf7](sf7.jpg)
 
 
 ### When to use SDLC Waterfall Model?
@@ -196,7 +196,7 @@
   - Does not attempt to start with a full specification of requirements
   - Begins by specifying and implementing just part of the software
   
-- ![sf9](sf9.jpeg)
+- ![sf9](sf9.jpg)
 
 - Iterative and Incremental development is a combination of both iterative design or iterative method and incremental build model for development.
 
