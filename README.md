@@ -302,3 +302,16 @@
 ### Disadvantages of Agile Model
 - Due to the shortage of formal documents, it creates confusion and crucial decisions taken throughout various phases can be misinterpreted at any time by different team members
 - Due to the lack of proper documentation, once the project completes and the developers allotted to another project, maintenance of the finished project can become a difficulty
+
+
+## **Testing vs Debuging**
+***
+- [x]**Testing**
+  - It involves identifying Bugs or errors or defect in a software with correcting it.
+  - Testing is performed in the Testing Phase
+
+- [x]**Debugging**
+  - It involves identifying, isolating and fixing problems or bugs.
+  - Developers who code the software conduct debugging upon encountering an error in the code
+
+## **Black Box Testing**
