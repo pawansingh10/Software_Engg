@@ -315,3 +315,11 @@
   - Developers who code the software conduct debugging upon encountering an error in the code
 
 ## **Black Box Testing**
+***
+- The technique of testing without having any knowledge of the interior working of application is called **Black Box Testing**
+- The tester is to the System Architecture and doesn't have access to the source code
+
+## **White Box Testing**
+***
+- White Box Testing is detailed investigation of internal logic and structure of the Code.
+- The tester needs to know the internal working of code & access to the source code.
